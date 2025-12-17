@@ -19,10 +19,11 @@ https://lrusso.github.io/CounterStrike/CounterStrike.htm
 - Bots will be added automatically to the game.
 - Adjusted the name server.
 - Adjusted the UI resolution.
-- Removed the CDN dependency.
+- Adjusted the default player name.
+- Removed the CDN dependency (isolated client).
 - Removed the module requirement from the script.
-- Implemented a fullscreen mode.
-- Implemented a ES5 unzip utility.
+- Implemented a fullscreen mode during the gameplay.
+- Implemented a ES5 unzip utility that doesn't require an import.
 - Implemented a workaround that replaced ScriptProcessorNode (deprecated).
 
 ## Based on the work of:
