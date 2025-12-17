@@ -16,10 +16,10 @@ https://lrusso.github.io/CounterStrike/CounterStrike.htm
 
 ## Main differences with the original project:
 
-- Bots will be added automatically to the game.
 - Adjusted the name server.
 - Adjusted the UI resolution.
 - Adjusted the default player name.
+- Adjusted the config for adding bots.
 - Removed the CDN dependency (isolated client).
 - Removed the module requirement from the script.
 - Implemented a fullscreen mode during the gameplay.
