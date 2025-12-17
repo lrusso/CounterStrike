@@ -1,6 +1,6 @@
 # Counter Strike
 
-Counter Strike running in the web browser using JavaScript and WebAssembly. Simply open the link below, click the red icon, and select the `ZIP` file that must contain the `valve` and `cstrike` folders; all files will be loaded and the game will start automatically.
+Counter Strike running in the web browser using JavaScript and WebAssembly. Simply open the link below, click the red icon, and select the `ZIP` file that must contain the `valve` and `cstrike` folders; all files will be loaded and the game will start automatically. Multiplayer mode is not available. Bots are available if they are installed in the `cstrike` folder.
 
 ![alt screenshot](https://lrusso.github.io/CounterStrike/SCREENSHOT.jpg)
 
