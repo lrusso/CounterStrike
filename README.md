@@ -20,6 +20,7 @@ https://lrusso.github.io/CounterStrike/CounterStrike.htm
 - Adjusted the UI resolution.
 - Adjusted the default player name.
 - Adjusted the config for adding bots.
+- Removed warnings from the game event logs.
 - Removed the CDN dependency (isolated client).
 - Removed the module requirement from the script.
 - Implemented a fullscreen mode during the gameplay.
