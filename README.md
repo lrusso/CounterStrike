@@ -16,7 +16,13 @@ https://lrusso.github.io/CounterStrike/CounterStrike.htm
 
 ## Main differences with the original project:
 
-- Implemented logic for pausing the emulator on blur and resuming on focus.
+- Bots will be added automatically to the game.
+- Adjusted the name server.
+- Adjusted the UI resolution.
+- Removed the CDN dependency.
+- Removed the module requirement from the script.
+- Implemented a fullscreen mode.
+- Implemented a ES5 unzip utility.
 - Implemented a workaround that replaced ScriptProcessorNode (deprecated).
 
 ## Based on the work of:
